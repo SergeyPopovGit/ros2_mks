@@ -1,6 +1,13 @@
 # ros2_mks
 ## Описание работы и разработки узла ROS2 для управления серводвигателем MKS Servo
 
+- install MKS Servo 57D python lib
+```
+   git clone https://github.com/SergeyPopovGit/mks-servo-can.git     
+   cd mks-servo-can
+   pip install .
+```
+
 ## Cоздание  узла
 Запрос Gemini
 ```
